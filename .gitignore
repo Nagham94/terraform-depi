@@ -1,0 +1,5 @@
+LICENSE.txt
+terraform-provider-aws_v5.91.0_x5
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
