@@ -8,7 +8,7 @@ terraform {
 
   backend "s3" {
     bucket = "nagham-terraform-bucket"
-    key    = "path/to/my/key"
+    key    = "terraform.tfstate"
     region = "us-east-1"
   }
 }
